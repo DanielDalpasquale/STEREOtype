@@ -1,0 +1,28 @@
+{
+  "name": "stereotype",
+  "version": "1.0.0",
+  "description": "<a href=\"https://thquinn.itch.io/stereotype\"> <div>   <img src =\"https://i.imgur.com/P6e1wLQ.png\" />   <p align=\"center\">A rhythm/typing game made in 48 hours for Ludum Dare 41</p> </div> </a>",
+  "homepage": "https://github.com/DanielDalpasquale/STEREOtype#readme",
+  "bugs": {
+    "url": "https://github.com/DanielDalpasquale/STEREOtype/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielDalpasquale/STEREOtype.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dictionary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.26.9",
+    "automation-events": "^7.1.5",
+    "regenerator-runtime": "^0.14.1",
+    "standardized-audio-context": "^25.3.77",
+    "tone": "^15.0.4",
+    "tslib": "^2.8.1"
+  }
+}
